@@ -12,7 +12,7 @@
 - [x] Listar os endereços disponíveis no banco de dados 
 
 
-### Demonstração
+### Screenshot
 <h1> 
 <img alt="demoimage" title ="demoimage"  src ='./demoimage.jpg'/> 
 </h1>
