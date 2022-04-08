@@ -16,5 +16,5 @@
 
 ### Screenshot
 <h1> 
-<img alt="demoimage" title ="demoimage"  src ='./demoimage.jpg'/> 
+<img alt="demoimage" title ="demoimage"  src ='static/demoimage.jpg'/> 
 </h1>
